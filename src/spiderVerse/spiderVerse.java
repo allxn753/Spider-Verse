@@ -32,6 +32,10 @@ class User {
 			"Programmable Matter Suit"));
 	
 	
+	public User(){
+		
+	}
+	
 	//Creating a print options method
 	public void printOptions() {
 		
