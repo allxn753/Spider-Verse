@@ -24,7 +24,7 @@ class User {
 	protected static String head, body, leg;
 	
 	//Creating an array with all suit options
-	ArrayList<String> options = new ArrayList<>(Arrays.asList(
+	protected ArrayList<String> options = new ArrayList<>(Arrays.asList(
 			"Peter's Suit", 
 			"Spider-Verse Suit (Miles)",
 			"2099 Suit (Miles)",
