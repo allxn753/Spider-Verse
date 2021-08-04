@@ -1,5 +1,5 @@
 # Spider-Verse
-ICS4U Culminating (Java). This program combines multiple images into one depending on what the user chooses.
+ICS4U Culminating (Java) | This program combines multiple images into one depending on what the user chooses.
 
 In this program, the user gets to choose from 5 different Spider-Man suit options to mix and match:
 - Peter's Suit
